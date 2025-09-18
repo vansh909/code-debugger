@@ -1,7 +1,5 @@
 # Code Debugger - Mini Code Execution Engine
 
-💡 Ever wondered how online code editors run your code behind the scenes?
-
 This project is a **mini version of a code execution engine**, built with Node.js. Users can submit Python, JavaScript, or Java code, and the server executes it safely in an isolated environment using Node's `child_process` library.
 
 ---
